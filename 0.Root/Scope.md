@@ -6,7 +6,7 @@ Das ISMS der test-Firma umfasst alle geschäftskritischen Prozesse, IT-Systeme, 
 ## Einbezogene Bereiche
 - Produktentwicklung
 - IT-Betrieb
-- Support
+TESTAENDERRUNG
 - Management & Administration
 
 ## Ausgeschlossene Bereiche
