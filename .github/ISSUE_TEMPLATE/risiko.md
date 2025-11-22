@@ -5,6 +5,13 @@ title: "[RISIKO] - "
 labels: ["risiko", "offen"]
 assignees: ""
 ---
+---
+name: Risiko
+about: Erfasse ein Risiko im ISMS der test-Firma
+title: "[RISIKO] - "
+labels: ["risiko", "offen"]
+assignees: ""
+---
 
 # 🛑 Risiko – Beschreibung
 **Kurztitel:**
